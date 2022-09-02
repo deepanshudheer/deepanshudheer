@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Dheer</h1>
-<h3 align="center">A web development enthusiast with a keen interest in blockchain technology. Currently pursuing a bachelor's degree in Computer Science and Engineering at Christ University, Bangalore.</h3>
+<h5 align="center">A web development enthusiast with a keen interest in blockchain technology. Currently pursuing a bachelor's degree in Computer Science and Engineering at Christ University, Bangalore.</h5>
 
 <p align="left"> <a href="https://twitter.com/deepsi03" target="blank"><img src="https://img.shields.io/twitter/follow/deepsi03?logo=twitter&style=for-the-badge" alt="deepsi03" /></a> </p>
 
