@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/deepsi03" target="blank"><img src="https://img.shields.io/twitter/follow/deepsi03?logo=twitter&style=for-the-badge" alt="deepsi03" /></a> </p>
 
-- 🌱 I’m currently learning **Object Oriented Programming**
+- 🌱 I’m currently learning **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
